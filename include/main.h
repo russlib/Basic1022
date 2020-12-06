@@ -70,6 +70,8 @@ void opcontrol(void);
 #ifdef __cplusplus
 }
 #endif
+#include "subsystemHeaders/drive.hpp"
+#include "subsystemHeaders/globals.hpp"
 
 #ifdef __cplusplus
 /**
